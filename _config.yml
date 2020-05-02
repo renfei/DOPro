@@ -1,0 +1,26 @@
+# Site settings
+name: DevOps Protocol
+email: i@renfei.net
+author: RenFei
+url: https://www.dopro.prg
+resume_site: https://www.renfei.net/
+github: https://github.com/renfei-net/DOPro
+baseurl: ""
+description: 这是一个关于“软件开发人员（Dev）”和“IT运维技术人员（Ops）”的协议/规范/约定。
+meta_description: 这是一个关于“软件开发人员（Dev）”和“IT运维技术人员（Ops）”的协议/规范/约定。
+motto: DevOps Protocol
+banner: DevOps Protocol
+
+permalink: /:categories/:year/:month/:day/:title/
+# permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: NeilRen
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 8ec5e624cb75b68f5041a9100415f94e
+
